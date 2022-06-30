@@ -60,7 +60,7 @@ você pode verificar a documentação do GitHub [Criando uma Pull Request](https
 
 <div align="center" >
   <a href="https://github.com/Joelson-Fernandes">
-    <img src="https://avatars.githubusercontent.com/u/81213149?s=96&v=4" width="100px;" alt="Victor Souza image"/><br>
+    <img src="https://avatars.githubusercontent.com/u/81213149?s=96&v=4" width="100px;" alt="Joelson Fernandes image"/><br>
     <sub>
       <b>Joelson Fernandes</b>
     </sub>
